@@ -1,0 +1,51 @@
+=============================================================================
+[SEUMIM] 신규 웹사이트 기획 레퍼런스 34선
+구성: 트렌디한 무드 12개 · 소재 중심 UX 11개 · 디자인·사용성 롤모델 11개
+※ 「SEUMIM 웹사이트 기획 레퍼런스 200선」과 URL 기준 중복 없음
+=============================================================================
+
+-----------------------------------------------------------------------------
+1. 🎨 트렌디 & 편안한 무드 레퍼런스 (12개)
+-----------------------------------------------------------------------------
+01. PANGAIA - https://thepangaia.com (분류 근거: 눈 피로도를 낮춘 차분한 파스텔 여백 및 트렌디한 바이오 룩북)
+02. ASKET - https://www.asket.com (분류 근거: 극도로 편안한 미니멀 오프화이트 여백 및 트렌디 에센셜 레이아웃)
+03. Colorful Standard - https://colorfulstandard.com (분류 근거: 밝고 가벼운 파스텔 컬러 톤온톤 및 넓은 여백 룩북)
+04. Uniform Standard - https://uniformstandard.com (분류 근거: 차분한 웜 베이지 미니멀 여백 및 에디토리얼 화보 프레임)
+05. Nudie Jeans - https://www.nudiejeans.com (분류 근거: 지속가능 데님 미니멀 여백 및 감성 룩북 레이아웃)
+06. Pact - https://wearpact.com (분류 근거: 가볍고 편안한 오가닉 코튼 베이지 톤온톤 및 넓은 여백)
+07. Tentree - https://www.tentree.com (분류 근거: 자연주의 미니멀 파스텔 톤 및 눈 피로도를 낮춘 여백)
+08. Kotn - https://kotn.com (분류 근거: 이집트 오가닉 코튼의 포근하고 편안한 베이지 여백 비주얼)
+09. Armedangels - https://www.armedangels.com (분류 근거: 유럽 친환경 웰니스 미니멀 톤온톤 및 트렌디 에디토리얼)
+10. Story mfg. - https://www.storymfg.com (분류 근거: 슬로우 패션 파스텔 내추럴 톤온톤 및 넓은 여백 화보)
+11. Outerknown - https://www.outerknown.com (분류 근거: 서스테이너블 캘리포니아 코스탈 무드 및 편안한 여백)
+12. Finisterre - https://finisterre.com (분류 근거: 영국 코스탈 미니멀 웰니스 톤온톤 및 차분한 룩북)
+
+-----------------------------------------------------------------------------
+2. 🔍 가벼운 소재 UX & 돋보기 기능 레퍼런스 (11개)
+-----------------------------------------------------------------------------
+01. Janji - https://janji.com (분류 근거: 가벼운 러닝 소재 매크로 뷰 및 마우스 호버 돋보기 확대 기능)
+02. Ryzon - https://www.ryzon.net (분류 근거: 라이트웨이트 심리스 매크로 샷 및 마우스 커서 돋보기 확대 인터랙션)
+03. Matek - https://matek.clothing (분류 근거: 가벼운 레이어드 원단 텍스처 초근접 매크로 뷰 및 돋보기 확대)
+04. Thought Clothing - https://www.wearethought.com (분류 근거: 오가닉 섬유 매크로 초근접 샷 및 돋보기 확대 호버 기능)
+05. Bleed Clothing - https://www.bleed-clothing.com (분류 근거: 친환경 기능성 소재 가벼운 매크로 샷 및 호버 돋보기 확대)
+06. Rapanui - https://rapanuiclothing.com (분류 근거: 오가닉 원단 텍스처 가벼운 매크로 샷 및 마우스 돋보기 확대 기능)
+07. Lucy & Yak - https://lucyandyak.com (분류 근거: 가벼운 코튼 텍스처 매크로 샷 및 호버 마우스 돋보기 인터랙션)
+08. Cotopaxi - https://www.cotopaxi.com (분류 근거: 가벼운 리사이클 텍스처 초근접 매크로 뷰 및 돋보기 확대 기능)
+09. Western Rise - https://westernrise.com (분류 근거: 경량 테크니컬 원단 매크로 샷 및 마우스 호버 돋보기 확대)
+10. Unbound Merino - https://unboundmerino.com (분류 근거: 메리노 울 통기성 섬유 가벼운 매크로 샷 및 돋보기 확대)
+11. Taylor Stitch - https://www.taylorstitch.com (분류 근거: 내추럴 코튼 직조 가벼운 매크로 샷 및 마우스 돋보기 호버)
+
+-----------------------------------------------------------------------------
+3. 🎯 디자인 + 사용성 롤모델 (11개)
+-----------------------------------------------------------------------------
+01. Faherty - https://fahertybrand.com (분류 근거: 편안한 코스탈 웰니스 무드 + 원단 돋보기 확대 및 하단 스티키 결제 바)
+02. Marine Layer - https://www.marinelayer.com (분류 근거: 부드러운 삼중 원단 파스텔 무드 + 호버 돋보기 기능 및 Bottom Sheet 장바구니)
+03. Buck Mason - https://www.buckmason.com (분류 근거: 차분한 뉴트럴 톤온톤 무드 + 원단 확대 돋보기 및 하단 팝업 결제창)
+04. Chubbies - https://www.chubbiesshorts.com (분류 근거: 밝고 가벼운 웰니스 라이프 무드 + 패브릭 돋보기 기능 및 Sticky 구매 버튼)
+05. Kuhl - https://www.kuhl.com (분류 근거: 인체공학 테크니컬 무드 + 소재 매크로 돋보기 기능 및 Bottom Sheet 결제 모달)
+06. Prana - https://www.prana.com (분류 근거: 오가닉 요가 웰니스 무드 + 원단 확대 돋보기 및 하단 스티키 장바구니)
+07. Toad & Co - https://www.toadandco.com (분류 근거: 지속가능 오가닉 무드 + 섬유 호버 돋보기 기능 및 하단 결제 팝업창)
+08. Stio - https://www.stio.com (분류 근거: 마운틴 라이프스타일 미니멀 무드 + 소재 돋보기 확대 및 Sticky Quick Buy)
+09. Ibex Merino - https://ibex.com (분류 근거: 메리노 울 미니멀 웰니스 무드 + 직조 호버 돋보기 기능 및 하단 스티키 결제)
+10. Topo Designs - https://topodesigns.com (분류 근거: 트렌디 컬러 블록 무드 + 원단 호버 돋보기 기능 및 하단 스티키 결제 바)
+11. Duckworth - https://www.duckworthco.com (분류 근거: 몬태나 메리노 울 웰니스 무드 + 원단 확대 돋보기 및 하단 팝업 결제창)

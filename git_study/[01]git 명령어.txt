@@ -1,0 +1,165 @@
+[■저장소 시작하기■]
+※현재 폴더를 Git 저장소로 만들기
+※GitHub Desktop: File → New repository
+|
+git init
+
+
+※<저장소-주소>원격 저장소 복제하기
+※File → Clone repositor
+|
+git clone
+
+
+
+
+
+[■변경 사항 확인·저장하기■]
+※현재 변경 상태 확인
+※Changes 탭에서 변경 파일 확인
+|
+git status 
+
+
+※아직 스테이징하지 않은 변경 내용 확인
+※Changes 탭에서 변경 파일 확인
+|
+git diff
+
+
+※특정 파일을 스테이징
+※파일 왼쪽 체크박스 선택 → 다음 커밋에 포함
+|
+git add <파일명>
+
+
+※모든 변경을 스테이징
+※변경 파일 체크박스를 모두 선택
+|
+git add .
+
+
+※스테이징된 변경을 커밋
+※Summary 입력 → Commit to 현재브랜치 클릭
+|
+git commit -m "메시지"
+
+
+※커밋 기록을 간단히 확인
+※History 탭에서 커밋 기록 확인
+|
+git log --oneline
+
+
+
+
+[■브랜치 다루기■]
+※브랜치 목록 확인
+※상단 Current Branch 클릭 → 브랜치 목록 확인
+|
+git branch
+
+
+※브랜치 이동
+※Current Branch → 이동할 브랜치 선택
+|
+git switch <브랜치명>
+
+
+※브랜치를 만들고 이동
+※Branch → New Branch
+|
+git switch -c <새브랜치명>
+
+
+※병합된 로컬 브랜치 삭제
+※삭제할 브랜치 선택 → Branch → Delete
+|
+git branch -d <브랜치명>
+
+
+※현재 브랜치에 다른 브랜치 병합
+※Current Branch → Choose a branch to merge into 현재브랜치
+|
+git merge <브랜치명>
+	
+
+[■원격 저장소와 동기화하기■]
+※연결된 원격 저장소 확인
+※Repository → Repository Settings → Remote
+|
+git remote -v
+
+
+※원격 변경 이력만 가져오기
+※상단 Fetch origin 클릭
+|
+git fetch
+
+
+※원격 변경을 가져와 현재 브랜치에 반영
+※상단 Pull origin 클릭
+|
+git pull
+
+
+※로컬 커밋을 원격 저장소에 올리기
+※상단 Push origin 클릭
+|
+git push
+
+
+※새 브랜치를 처음 올리고 연결
+※새 브랜치에서 Publish branch 클릭
+|
+git push -u origin <브랜치명>
+
+
+[■실수 복구하기■]
+※커밋하지 않은 파일 변경 취소
+※Changes 탭에서 파일 우클릭 → Discard Changes
+※주의: 해당 파일의 커밋하지 않은 변경이 취소됨
+|
+git restore <파일명>
+
+
+※스테이징만 취소
+※ 파일 왼쪽 체크박스 해제,  변경은 유지하고 다음 커밋에서만 제외
+|
+git restore --staged <파일명>
+
+
+※마지막 커밋 수정
+※History → 최근 커밋 우클릭 → Amend commit
+|
+git commit --amend
+
+
+※기존 커밋을 취소하는 새 커밋 생성
+※History → 커밋 우클릭 → Revert Changes in Commit
+|
+git revert <커밋해시>
+
+
+※작업 중인 변경을 임시 보관
+※Changes의 변경 파일 제목 우클릭 → Stash All Changes
+|
+git stash
+
+
+※임시 보관한 변경 복원
+※Stashed Changes → Restore
+|
+git stash pop
+
+
+[■일반적인 작업 흐름■]
+git pull
+git switch -c feature/login
+
+# 파일 수정
+git status
+git diff
+git add .
+git commit -m "로그인 기능 추가"
+git push -u origin feature/login
